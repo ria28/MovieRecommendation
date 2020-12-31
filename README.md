@@ -8,7 +8,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 ( Download credits.csv and movies_metadata.csv from :
 [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset),
 [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) 
-repectively)
+respectively)
 
 1. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file.
 2. Clone this repository in your local system.
